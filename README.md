@@ -1,3 +1,3 @@
 # mtsamples
 
-Work in progress!
+Medical transcription classification with Fine-tuned DistilBERT
